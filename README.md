@@ -168,3 +168,54 @@ Her gün belirlediğiniz hedefleri, büyüyen ve yeşeren bir "hedef ağacı" me
   * Üç kez toplantı yapılarak ürün gereksinimleri detaylı şekilde tartışıldı ve netleştirildi. Database entegrasyonu ve arka uç API kısmı hakkında  konuşuldu, sorumlular belirlendi ancak henüz uygulanmadı.
   
 </details>
+
+---
+<details>
+  <summary><h1>Sprint 3</h1></summary>
+
+  ---
+
+<details>
+    <summary><h2>App Screenshots</h2></summary>
+
+  * Bu sprintte ilgili ürüne ait tasarıma yönelik herhangi bir çıktı/görsel bulunmamaktadır.
+
+  </details>
+
+---
+
+<details>
+  <summary><h2>Project Management</h2></summary>
+  
+  * Bu sprintte ilgili ürün için sprint board'da herhangi bir çıktı bulunmamaktadır.
+
+</details>
+
+---
+
+- **Sprint Notları:**
+  * MVP tamamlandı.
+  * Frontend akışı tamamlandı
+  * Kullanıcıdan veri alma, işleme ve gösterme zinciri oturdu
+
+- **Sprint İçinde Tamamlanması Beklenen Puan:**
+  * `70` Puan
+
+- **Puan Tamamlama Mantığı:**
+  * Toplamda `100` puanlık bir hedef belirlendi. Birinci sprintte `10` puan tamamlanmıştır. İkinci sprintte, kodların genel olarak tamamlanması istenilmiş `40` puan hedefi konulmuş ve bunun `20` puanı tamamlandı. Üçüncü sprintte ise, ikinci sprintten kalan `20` puan da eklenerek toplam `70` puanlık bir hedef belirlendi ve bunun `40` puanı tamamlandı, `30` puanı ise tamamlanamadı. Sonuç olarak proje istenildiği gibi tamamlanamadı.
+  
+- **Sprint Gözden Geçirilmesi:**
+  * Bu sprintte hedeflediğimiz MVP'yi tamamladık.
+  * MVP’nin yalnızca tek bir sınav türü(DGS) üzerine odaklanıldı.
+  * Net değişimi çubuk grafiği ile analiz görselleştirmesi yapıldı.
+
+- **Daily Scrum:** [Sprint 3 Daily Scrum](/bootcamp-files/sprint-theree/sprint3_daily_scrum/)
+
+- **Sprint Gözden Geçirme Katılımcıları:**
+  * `Furkan Çamyar, Sena AKAR, Sudenaz KILIÇ`
+
+- **Sprint Retrospektifi:**
+  * İki ekip arkadaşımızın bilgisayarlarında yaşanan teknik sorunlar devam etmekte, ayrıca bir ekip arkadaşımızın sağlık problemleri nedeniyle görevler tamamlanamadı. Bu durum sprint planlamasını ve iş akışını olumsuz etkiledi.
+  * İki kez toplantı yapıldı; veritabanı ve tüm temel altyapı hazır hale getirildi. Ancak tüm bu çalışmalara rağmen, ürün istenilen şekilde tamamlanamadı.
+  
+</details>
